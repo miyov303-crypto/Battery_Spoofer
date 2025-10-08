@@ -1,3 +1,4 @@
+100000
 # Battery Spoofer
 
 A simple yet powerful battery spoofing tool for **Termux**.  
